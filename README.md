@@ -44,11 +44,8 @@ A basic calculator that performs arithmetic operations like addition, subtractio
 
 Features:
 
-Interactive console UI
-
 Handles input validation and division by zero
 
-Simple menu-driven interface
 
 How to Run:
 python calculator.py
