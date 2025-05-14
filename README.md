@@ -17,7 +17,6 @@ A simple tool that generates secure and random passwords based on user-defined l
 - Secure and random output
 
 **How to Run:**
-```bash
 python Password_generator.py
 python To_do_list.py
 python calculator.py
@@ -38,6 +37,18 @@ Delete tasks
 Saves tasks to a local file (tasks.txt)
 
 How to Run:
-
-bash
 python To_do_list.py
+
+3. 🧮 Calculator (calculator.py)
+A basic calculator that performs arithmetic operations like addition, subtraction, multiplication, and division.
+
+Features:
+
+Interactive console UI
+
+Handles input validation and division by zero
+
+Simple menu-driven interface
+
+How to Run:
+python calculator.py
