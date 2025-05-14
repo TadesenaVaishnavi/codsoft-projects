@@ -21,7 +21,7 @@ python Password_generator.py
 python To_do_list.py
 python calculator.py
 
-2. ✅ To-Do List (To_do_list.py)
+### 2. ✅ To-Do List (To_do_list.py)
 A command-line based to-do list application to manage daily tasks.
 
 Features:
@@ -39,7 +39,7 @@ Saves tasks to a local file (tasks.txt)
 How to Run:
 python To_do_list.py
 
-3. 🧮 Calculator (calculator.py)
+### 3. 🧮 Calculator (calculator.py)
 A basic calculator that performs arithmetic operations like addition, subtraction, multiplication, and division.
 
 Features:
